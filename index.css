@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.con1 {
+    padding-top: 10px;
+    height: 7vh;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+    font-size: 25px;
+    font-family: 'Anton', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-weight: bold;
+    color: whitesmoke;
+    text-align: center;
+    font-stretch: expanded;
+}
+
+.con2 {
+    background-color: lightblue;
+    height: 5vh;
+    text-align: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body {
+    background-image: url('background.avif');
+    font-family: 'Anton', sans-serif;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-family: 'Patua One', cursive;
+    font-family: 'Smooch', cursive;
+    font-weight: bold;
+    font-size: medium;
+}
+
+footer h1 {
+    text-align: center;
+    font-weight: bold;
+    /* background-color: aqua; */
+    padding-bottom: 0px;
+}
+
+footer {
+    background-image: linear-gradient(to right, aqua, yellow);
+}
+
+.row {
+    padding-bottom: 0px;
+}
